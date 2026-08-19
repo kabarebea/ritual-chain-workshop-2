@@ -1,0 +1,13 @@
+{
+  "name": "level-prediction",
+  "version": "1.0.0",
+  "description": "Support and resistance level detector for price analysis",
+  "main": "level-detector.js",
+  "scripts": {
+    "start": "node level-demo.js",
+    "test": "node level-demo.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
